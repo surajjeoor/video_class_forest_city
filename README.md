@@ -1,4 +1,4 @@
-The document discusses the implications of enhancing an image classifier for use in video classification. The key points are:
+This project summarizes the implications of enhancing an image classifier for use in video classification. The key points are:
 
 1. The existing image classification model was tested on videos by extracting frames and passing them through the model. The model performed well on classifying city scenes but struggled with forest scenes.
 
